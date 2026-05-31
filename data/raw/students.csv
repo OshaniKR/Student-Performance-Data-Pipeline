@@ -1,0 +1,17 @@
+student_id,first_name,last_name,email,department,enrollment_year,gender
+S001,Amal,Perera,amal.perera@uni.lk,Computer Science,2022,Male
+S002,Nimasha,Silva,nimasha.silva@uni.lk,Mathematics,2021,Female
+S003,Kasun,Fernando,kasun.fernando@uni.lk,Physics,2022,Male
+S004,Dilani,Rajapaksa,dilani.rajapaksa@uni.lk,Computer Science,2023,Female
+S005,Roshan,Bandara,roshan.bandara@uni.lk,Engineering,2021,Male
+S006,Shalini,Gunawardena,,Mathematics,2022,Female
+S007,Tharindu,Wickramasinghe,tharindu.w@uni.lk,Computer Science,2021,Male
+S008,Malika,Jayasuriya,malika.j@uni.lk,Physics,2023,Female
+S009,Nuwan,Dissanayake,nuwan.d@uni.lk,Engineering,2022,Male
+S010,Ayesha,Karunaratne,ayesha.k@uni.lk,Computer Science,2021,Female
+S001,Amal,Perera,amal.perera@uni.lk,Computer Science,2022,Male
+S011,Priya,Seneviratne,,Mathematics,2023,Female
+S012,Dilan,Madhushanka,dilan.m@uni.lk,Engineering,2022,Male
+S013,Rashmi,Jayawardena,rashmi.j@uni.lk,Computer Science,2023,Female
+S014,Lahiru,Tennakoon,lahiru.t@uni.lk,Physics,2021,Male
+S015,Chamari,Wickrama,chamari.w@uni.lk,Mathematics,2022,Female
